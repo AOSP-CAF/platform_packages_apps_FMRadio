@@ -23,7 +23,7 @@
     <string name="optmenu_speaker" msgid="3726411287495057671">"Lautsprecher"</string>
     <string name="optmenu_earphone" msgid="5400875884296655508">"Kopfhörer"</string>
     <string name="save" msgid="7204164791719833151">"Speichern"</string>
-    <string name="toast_sdcard_missing" msgid="3707819946661311504">"Ihre SD-Karte fehlt."</string>
+    <string name="toast_sdcard_missing" msgid="3707819946661311504">"Deine SD-Karte fehlt."</string>
     <string name="toast_sdcard_insufficient_space" msgid="1150004976629615550">"Nicht genügend Speicherplatz auf der SD-Karte"</string>
     <string name="toast_recorder_internal_error" msgid="8218803072221129182">"Im Rekorder ist ein interner Fehler aufgetreten."</string>
     <string name="btn_save_recording" msgid="7888937971238580699">"Speichern"</string>
